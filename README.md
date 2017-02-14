@@ -25,5 +25,5 @@ Kremer, F.S. et al.(2017)
 
 ###The methodology which have inspired the development of MS6:
 
-Esperotto, R.L. et al.(2017) Proteomic analysis of Toxocara canis excretory and secretory (TES) proteins. Molecular and Biochemical Parasitology, v. 211, p39-47.
-DOI: 10.1016/j.molbiopara.2016.09.002. PubMed: 27638150. 
+Esperotto, R.L. _et al_.(2017) Proteomic analysis of _Toxocara canis_ excretory and secretory (TES) proteins. **Molecular and Biochemical Parasitology**, v. 211, p39-47. DOI: [10.1016/j.molbiopara.2016.09.002](http://dx.doi.org/10.1016/j.molbiopara.2016.09.002). 
+PubMed: [27638150](https://www.ncbi.nlm.nih.gov/pubmed/27638150). 
