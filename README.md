@@ -16,6 +16,7 @@ to be executed. The front-end of MS6 was built on top of the
 [Bootstrap](http://getbootstrap.com/) and [DataTables](https://datatables.net/) 
 frameworks.
 
+The MS6 webserver is available at http://labbioinfo.ufpel.edu.br/ms6/eng/.
 ##Citing MS6
 
 If you have used MS6 in your research please cite:
