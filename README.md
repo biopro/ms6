@@ -27,16 +27,22 @@ The MS6 webserver is available at http://labbioinfo.ufpel.edu.br/ms6/eng/.
 
 ## Developers
 
-MSc. Frederico Schmitt Kremer  
+MSc. Frederico Schmitt Kremer
+
 *Master of Science (Biotechnology).*
+
 **contact:** fred.s.kremer@gmail.com.
 
 Martina Bianca Fuhrmann
+
 *Master degree student (Genetics).*
+
 **contact:** martinabfuhrmann@gmail.com.
 
 Dr. Luciano da Silva Pinto
+
 *Professor at Universidade Federal de Pelotas.*
+
 **contact:** ls_pinto@hotmail.com.
 
 ### BioPro - Laboratório de Bioinformática e Proteômica
