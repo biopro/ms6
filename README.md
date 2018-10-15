@@ -17,13 +17,21 @@ to be executed. The front-end of MS6 was built on top of the
 frameworks.
 
 The MS6 webserver is available at http://labbioinfo.ufpel.edu.br/ms6/eng/.
-##Citing MS6
+
+## Deploy
+
+1. Install the `BioPython` package.
+1. Run the `ms6_database.sql` script on your system.
+2. Edit the `ms6_analysis.py` script and change the paths to programs and directories.
+3. Run the program.
+
+## Citing MS6
 
 If you have used MS6 in your research please cite:
 
 Kremer, F.S. et al.(2017)
 
-###The methodology which have inspired the development of MS6:
+### The methodology which have inspired the development of MS6:
 
 Esperotto, R.L. _et al_.(2017) Proteomic analysis of _Toxocara canis_ excretory and secretory (TES) proteins. **Molecular and Biochemical Parasitology**, v. 211, p39-47. DOI: [10.1016/j.molbiopara.2016.09.002](http://dx.doi.org/10.1016/j.molbiopara.2016.09.002). 
 PubMed: [27638150](https://www.ncbi.nlm.nih.gov/pubmed/27638150). 
