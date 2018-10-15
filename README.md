@@ -25,6 +25,26 @@ The MS6 webserver is available at http://labbioinfo.ufpel.edu.br/ms6/eng/.
 2. Edit the `ms6_analysis.py` script and change the paths to programs and directories.
 3. Run the program.
 
+## Developers
+MSc. Frederico Schmitt Kremer  
+*Master of Science (Biotechnology).*
+**contact:** fred.s.kremer@gmail.com.
+
+Martina Bianca Fuhrmann 
+*Master degree student (Genetics).*
+**contact:** martinabfuhrmann@gmail.com.
+
+Dr. Luciano da Silva Pinto 
+*Professor at Universidade Federal de Pelotas.*
+**contact:** ls_pinto@hotmail.com.
+
+### BioPro - Laboratório de Bioinformática e Proteômica
+
+MS6 was developed by the BioPro Laboratory team at Universidade Federal Federal de Pelotas. Our group develops researches on many areas of biotechnology, bioinformatics, genomics and proteomics, including: production of recombinant proteins, isolation and caracterization of plant lectins, microbial genomics and software development for bioinformatics.
+
+### Universidade Federal de Pelotas
+The Federal University of Pelotas (Portuguese: Universidade Federal de Pelotas, UFPEL) is a higher-learning facility with campuses in Pelotas and Capão do Leão in Rio Grande do Sul, Brazil. The university offers more than a hundred different graduation courses.
+
 ## Citing MS6
 
 If you have used MS6 in your research please cite:
